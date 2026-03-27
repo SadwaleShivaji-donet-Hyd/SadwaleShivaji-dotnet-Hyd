@@ -5,11 +5,10 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Working with Extended Team on backend & integration tasks  
-- ☁️ Hands-on experience with Microsoft Azure  
+- ☁️ Hands-on experience with Microsoft Azure services  
 - 🔗 Building APIs, file transfer systems & distributed architectures  
-- 🧠 Interested in system design & resilience patterns  
-- 🎯 Cleared AZ-204 (Azure Developer Associate)  
+- 🧠 Interested in system design & resilient cloud solutions  
+- 🎯 Microsoft Certified: Azure Developer Associate (AZ-204)  
 
 ---
 
@@ -34,17 +33,10 @@
 
 ---
 
-## 🧩 Architecture Interests  
-
-### 🔄 Store & Forward Pattern  
-- Reliable file transfer during network failures  
-- Retry mechanisms using queues  
-- Prevent message loss with controlled dequeue logic  
-
-### 🔗 Azure Relay & Hybrid Connectivity  
-- Secure on-prem to cloud communication  
-- No firewall inbound changes required  
-- Used in file transfer & API exposure  
+## 💼 Past Experience  
+- Worked on backend development and API integrations  
+- Experience in handling file-based workflows and automation  
+ 
 
 ---
 
@@ -54,14 +46,14 @@
 ---
 
 ## 📌 Current Focus  
-- System Design  
-- Fault-Tolerant Architectures  
+- System Design   
 - Cloud Security & Authorization  
 
 ---
 
-## 💬 Connect With Me  
-- Open to collaboration on backend & cloud projects  
+## 📫 Contact Me  
+- 💼 LinkedIn: https://www.linkedin.com/in/shivaji-sadwale-21a7a3269/  
+- 📧 Email: shivajisadwale53@gmail.com  
 
 ---
 
